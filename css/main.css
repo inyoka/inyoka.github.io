@@ -41,3 +41,9 @@ navbar-nav.posts {
 navbar-nav.posts nav-item {
     list-style: none;
 }
+
+.jumbotron {
+    padding: 10pt;
+    margin-top: 32pt;
+    margin-bottom: 0;
+}
